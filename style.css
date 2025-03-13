@@ -46,7 +46,13 @@ table {
     border-collapse: collapse;
     background-color: white;
 }
-th, td {
+th{
+padding: 10px;
+    border: 1px solid #f0b07c;
+
+}
+
+td {
     padding: 10px;
     border: 1px solid #f0b07c;
 
